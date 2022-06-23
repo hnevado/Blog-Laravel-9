@@ -1,0 +1,32 @@
+.grid {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
+body {
+    width: 1400px;
+    max-width: 100%;
+    margin: 0px auto;
+    padding-top: 15px;
+    padding-bottom:15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titular {font-weight:900;text-align:center;}
+
+p.titular-post {
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+p.titular-post > a {
+    color: black;
+    text-decoration: none;
+}
+
+.textCenter {text-align:center;}
+
+nav {padding:15px;}
